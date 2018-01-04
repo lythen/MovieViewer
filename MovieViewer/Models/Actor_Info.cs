@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace MovieViewer1.Models
+namespace MovieViewer.Models
 {
     public class Actor_Info
     {

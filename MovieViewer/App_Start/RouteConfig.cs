@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace MovieViewer1.App_Start
+namespace MovieViewer.App_Start
 {
     public class RouteConfig
     {

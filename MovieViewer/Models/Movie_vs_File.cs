@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MovieViewer1.Models
+namespace MovieViewer.Models
 {
     public class Movie_vs_File
     {

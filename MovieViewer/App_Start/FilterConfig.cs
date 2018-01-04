@@ -1,6 +1,6 @@
-﻿using MovieViewer1.Infrastructure;
+﻿using MovieViewer.Infrastructure;
 
-namespace MovieViewer1.App_Start
+namespace MovieViewer.App_Start
 {
     public class FilterConfig
     {

@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace MovieViewer1.Controllers
+namespace MovieViewer.Controllers
 {
     public class HomeController : Controller
     {

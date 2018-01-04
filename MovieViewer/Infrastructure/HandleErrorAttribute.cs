@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Web.Mvc;
 
-namespace MovieViewer1.Infrastructure
+namespace MovieViewer.Infrastructure
 {
     /// <summary>
     /// Apply this attribute to controller actions to log the exception via Trace.

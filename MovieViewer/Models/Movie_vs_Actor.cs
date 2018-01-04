@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MovieViewer1.Models
+namespace MovieViewer.Models
 {
     public class Movie_vs_Actor
     {

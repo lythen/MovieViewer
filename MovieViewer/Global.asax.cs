@@ -1,10 +1,10 @@
-﻿using MovieViewer1.App_Start;
+﻿using MovieViewer.App_Start;
 using System;
 using System.Diagnostics;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace MovieViewer1
+namespace MovieViewer
 {
     public class Global : System.Web.HttpApplication
     {
